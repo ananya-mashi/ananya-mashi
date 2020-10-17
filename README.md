@@ -1,6 +1,6 @@
 ### Hi there 👋
-![image title](https://rushter.com/counter.svg)
-Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+![counter](https://ananya-mashi.com/counter.svg)
+
 <!--
 **ananya-mashi/ananya-mashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
