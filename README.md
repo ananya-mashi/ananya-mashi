@@ -14,12 +14,12 @@ My name is Ananya Mashiwal and I'm a Full Stack Java Developer. I belong to nain
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=Css&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=Html&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=Cpp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MySql-informational?style=flat&logo=MySql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=SpringBoot&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Springboot-informational?style=flat&logo=Springboot&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Hibernate-informational?style=flat&logo=Hibernate&logoColor=white&color=2bbc8a)
 
 
@@ -30,7 +30,7 @@ My name is Ananya Mashiwal and I'm a Full Stack Java Developer. I belong to nain
 <a href="https://github.com/ananya-mashi/text-to-handwriting">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ananya-mashi&repo=text-to-handwriting&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-jjjjjj
+
 <!-- Actual text -->
 
 <!-- Icons -->
