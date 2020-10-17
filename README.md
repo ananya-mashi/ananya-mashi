@@ -3,11 +3,12 @@
 
 My name is Ananya Mashiwal and I'm a Full Stack Java Developer. I belong to nainital,  Uttarakhand . You can find me  on [![LinkedIn][1.2]][1].
 
+- 💬 Ask me about Anything  
+
 ## &#x270d;About Me
 
-- 🌱 I’m currently Working on Java Spring Framework
+- 🌱 I seek new challenges and try to think out of the box.
 
-- 💬 Ask me about Anything  
 
 ## 🔧 Technologies & Tools
 
