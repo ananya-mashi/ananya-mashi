@@ -1,7 +1,7 @@
 
 ## &#x270d; Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Ananya Mashiwal and I'm a Full Stack Java Developer. I'm belong to nainital,  Uttarakhand . You can find me  on [![LinkedIn][1.2]][1].
+My name is Ananya Mashiwal and I'm a Full Stack Java Developer. I belong to nainital,  Uttarakhand . You can find me  on [![LinkedIn][1.2]][1].
 
 ## &#x270d;About Me
 
@@ -14,13 +14,18 @@ My name is Ananya Mashiwal and I'm a Full Stack Java Developer. I'm belong to na
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=Html&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=Cpp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MySql-informational?style=flat&logo=MySql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=SpringBoot&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Hibernate-informational?style=flat&logo=Hibernate&logoColor=white&color=2bbc8a)
 
 
 <a href="https://github.com/ananya-mashi/ananya-mashi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ananya-mashi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/
+                           api?username=ananya-mashi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
 <a href="https://github.com/ananya-mashi/text-to-handwriting">
@@ -41,16 +46,4 @@ My name is Ananya Mashiwal and I'm a Full Stack Java Developer. I'm belong to na
 ## Profile Views
 
 ![](https://komarev.com/ghpvc/?username=ananya-mashi&color=dc143c)
-<!--
-**ananya-mashi/ananya-mashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
