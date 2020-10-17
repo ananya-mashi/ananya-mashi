@@ -1,5 +1,5 @@
 ### Hi there 👋
-![counter](https://ananya-mashi.com/counter.svg)
+![counter](https://ananya-mashi.m.pipedream.net)
 
 <!--
 **ananya-mashi/ananya-mashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
