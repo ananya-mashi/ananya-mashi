@@ -1,7 +1,4 @@
-<-- ### Hi there 👋 I am Ananya
-### A Full Stack Java Developer 
-### Profile Views
-![Visitor Count](https://profile-counter.glitch.me/{ananya-mashi}/count.svg)-->
+
 ## &#x270d; Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Ananya Mashiwal and I'm a Full Stack Java Developer. I'm belong to nainital,  Uttarakhand . You can find me  on [![LinkedIn][1.2]][1].
@@ -13,14 +10,13 @@ My name is Ananya Mashiwal and I'm a Full Stack Java Developer. I'm belong to na
 - 💬 Ask me about Anything  
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-MySql-informational?style=flat&logo=MySql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=SpringBoot&logoColor=white&color=2bbc8a)
 
 
 <a href="https://github.com/ananya-mashi/ananya-mashi">
