@@ -1,5 +1,5 @@
 ### Hi there 👋
-! [counter](https://[ananya-mashi].m.pipedream.net)
+![Visitor Count](https://profile-counter.glitch.me/{ananya-mashi}/count.svg)
 
 <!--
 **ananya-mashi/ananya-mashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
