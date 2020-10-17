@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/{ananya-mashi}/count.svg)
+### A Full Stack Java Developer
+Profile count ![Visitor Count](https://profile-counter.glitch.me/{ananya-mashi}/count.svg)
 
 <!--
 **ananya-mashi/ananya-mashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
