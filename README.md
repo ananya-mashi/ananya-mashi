@@ -5,7 +5,7 @@ My name is Ananya Mashiwal and I'm a Full Stack Java Developer. I belong to nain
 
 ## &#x270d;About Me
 
-- 🌱 I’m currently Working on Spring Framework
+- 🌱 I’m currently Working on Java Spring Framework
 
 - 💬 Ask me about Anything  
 
@@ -24,12 +24,10 @@ My name is Ananya Mashiwal and I'm a Full Stack Java Developer. I belong to nain
 
 
 <a href="https://github.com/ananya-mashi/ananya-mashi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ananya-mashi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ananya-mashi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
-<a href="https://github.com/ananya-mashi/text-to-handwriting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ananya-mashi&repo=text-to-handwriting&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+
 
 <!-- Actual text -->
 
